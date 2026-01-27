@@ -1,3 +1,4 @@
+// Working Day 9 : String using pointer
 #include<stdio.h>
 int main (){
     char str[50];
